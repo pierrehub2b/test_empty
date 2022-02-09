@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="suite" verbose="10" id="AGT-852C39CB-C8B3-4EED-6970-DE0C06B77363">
+  <parameter name="ats.suite.description" value=""/>
+  <parameter name="ats.log.level" value="all"/>
+  <test name="testMain" preserve-order="true">
+    <classes>
+      <class name="AtsScript"/>
+    </classes>
+  </test>
+</suite>

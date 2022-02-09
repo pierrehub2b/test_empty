@@ -1,0 +1,14 @@
+<atsProject>
+  <domain>com.functional</domain>
+  <name>ats-projectxxxxxxxx</name>
+  <version>0.0.1</version>
+  <description>ATS project created with Agilitest Editor</description>
+  <useMaven>false</useMaven>
+  <autoUpdateAts>true</autoUpdateAts>
+  <useProjectDomain>false</useProjectDomain>
+  <uuid>935D3F94-5654-5DA0-1D78-DE0BC1DD06DF</uuid>
+  <groups>
+    <group>default</group>
+  </groups>
+  <environment/>
+</atsProject>
