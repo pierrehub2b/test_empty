@@ -327,6 +327,7 @@ public class AtsLauncher {
 			if("ats".equals(tool.name)) {
 				atsHomePath = tool.folder;
 			}else if("jdk".equals(tool.name)) {
+				envList.add("JAVA_HOME=" + tool.folder);
 				jdkHomePath = tool.folder;
 			}
 		}
